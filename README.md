@@ -1,11 +1,5 @@
 # Livrable S5 - Calculatrice
 
-Petit dépôt pour le projet "Calculatrice".
+Dépôt pour le projet "Calculatrice".
 
-Fichiers principaux :
-- `livrable_S5_calculatrice.py`
-
-Instructions rapides :
-1. Initialiser le dépôt : `git init`
-2. Ajouter un remote (optionnel) : `git remote add origin <url>`
-3. Pousser : `git push -u origin main`
+Ce projet consiste en une application de calculatrice de bureau dotée d'une interface graphique développée en Python avec la bibliothèque Tkinter. L'application permet à l'utilisateur de saisir une formule mathématique complète en ligne, comme par exemple un nombre négatif suivi d'une opération, et d'afficher l'expression textuelle entière et sa réponse sur le même écran lors du clic sur le bouton de calcul. L'interface graphique propose un design sombre et épuré avec une grille de boutons générée de manière dynamique.
